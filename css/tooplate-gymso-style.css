@@ -311,8 +311,7 @@
 
   .nav-item .nav-link.active,
   .nav-item .nav-link:hover {
-    color: var(--primary-color);
-    text-decoration: underline;
+  color: var(--primary-color);
   }
 
   .nav-item input {
