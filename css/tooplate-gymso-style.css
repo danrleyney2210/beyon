@@ -416,6 +416,10 @@
     position: relative;
   }
 
+  .class-info h3 {
+    font-size: 20px;
+  }
+
   .class-info img {
     border-radius: 2px 2px 0 0;
   }
