@@ -129,7 +129,7 @@
   }
 
   .section {
-    padding: 7rem 0;
+    /* padding: 2rem 0; */
   }
 
   
@@ -150,6 +150,20 @@
 
 
   /* BUTTON */
+
+  .btn-beyon {
+    background: #6042B6;
+    color: #fff; 
+    border: none;
+    border-radius: 15px;
+    padding: 5px 25px;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .btn-beyon:hover {
+    background: #6c4bc8;
+  }
 
   .custom-btn {
     background: transparent;
@@ -429,6 +443,9 @@
   .img-desk {
     width: 510px;
     
+  }
+  .img-beyon {
+    width: 300px;
   }
 
   .class-info strong {
