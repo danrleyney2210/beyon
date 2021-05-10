@@ -161,6 +161,10 @@
     cursor: pointer;
   }
 
+  button {
+    outline: none;
+  }
+
   .btn-beyon:hover {
     background: #6c4bc8;
   }
@@ -238,6 +242,7 @@
     text-decoration: none;
     transition: all 0.3s ease;
   }
+
 
   a:hover, 
   a:active, 
@@ -716,6 +721,16 @@
   .social-icon li a:hover {
     color: var(--primary-color);
   }
+
+  .link-whatsapp {
+    color: #4621AD !important; 
+  }
+
+  .link-whatsapp:hover{
+    color: #47A4AD !important; 
+  }
+
+
 
 
   /*---------------------------------------
