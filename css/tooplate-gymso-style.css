@@ -585,6 +585,7 @@
 
   .list-visao {
     color:var(--primary-color);
+    border: none;
   }
 
 
