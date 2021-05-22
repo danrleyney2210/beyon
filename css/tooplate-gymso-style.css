@@ -583,6 +583,10 @@
     display: block;
   }
 
+  .list-visao {
+    color:var(--primary-color);
+  }
+
 
   /*---------------------------------------
      CONTACT              
